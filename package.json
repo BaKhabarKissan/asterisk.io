@@ -1,5 +1,5 @@
 {
-    "name": "asterisk.io",
+    "name": "bkk-asterisk.io",
     "version": "1.0.0",
     "description": "node.js asterisk pbx io",
     "keywords": [
@@ -24,5 +24,19 @@
             "name": " Muhammad Hamza",
             "email": "mh@bkk.ag"
         }
-    ]
+    ],
+    "main": "index.js",
+    "directories": {
+        "example": "examples",
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Bkk",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/BaKhabarKissan/bkk_asterisk.io/issues"
+    },
+    "homepage": "https://github.com/BaKhabarKissan/bkk_asterisk.io#readme"
 }
