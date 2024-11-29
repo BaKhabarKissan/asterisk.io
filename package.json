@@ -1,5 +1,5 @@
 {
-    "name": "asterisk.io",
+    "name": "bkk-asterisk.io",
     "version": "0.1.1",
     "description": "node.js asterisk pbx io",
     "keywords": [
@@ -8,17 +8,31 @@
         "utilities",
         "events",
         "ami",
-        "agi",
+        "agi",  
         "ari"
     ],
     "repository": {
         "type": "git",
-        "url": "git://github.com/zmarius81/asterisk.io"
+        "url": "git://github.com/zmarius81/asterisk.io.git"
     },
     "contributors": [
         {
             "name": "Zugravu Eugen Marius",
             "email": "marius@zugravu.com"
         }
-    ]
+    ],
+    "main": "index.js",
+    "directories": {
+        "example": "examples",
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/zmarius81/asterisk.io/issues"
+    },
+    "homepage": "https://github.com/zmarius81/asterisk.io#readme"
 }
