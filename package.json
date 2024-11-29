@@ -1,6 +1,6 @@
 {
     "name": "asterisk.io",
-    "version": "0.1.1",
+    "version": "1.0.0",
     "description": "node.js asterisk pbx io",
     "keywords": [
         "asterisk",
@@ -13,12 +13,16 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git://github.com/zmarius81/asterisk.io"
+        "url": "git://github.com/BaKhabarKissan/bkk_asterisk.io"
     },
     "contributors": [
         {
             "name": "Zugravu Eugen Marius",
             "email": "marius@zugravu.com"
+        },
+        {
+            "name": " Muhammad Hamza",
+            "email": "mh@bkk.ag"
         }
     ]
 }
